@@ -1,13 +1,9 @@
 package first;
 
-public class Login {
+public class Demopage {
 
 	public static void main(String[] args) {
-		
-		System.out.println("Hello there");
 		System.out.println();
-		
-
 	}
 
 }
